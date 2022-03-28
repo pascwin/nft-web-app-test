@@ -1,0 +1,32 @@
+{
+    "program": {
+        "uuid": "7KwRkX",
+        "candyMachine": "7KwRkXzpPJtsh8dFJNCdTfADkwDoAZ2fLcnDSJ67bsHL",
+        "collection": "H6o4SUec8rWhqt5zHP7PbEeT5FgHv6MwaKJjRhXxyYGg"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/S_HwpNKfkYlkbnYiPo5Z3VN_Vq0a60gnbpmQCPjw3Fo",
+            "imageLink": "https://arweave.net/i0lN7P2NzKoA_IjppEA59XIoADj7m9h7_bF3GoQBOeQ?ext=png",
+            "name": "barrel0",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "1": {
+            "link": "https://arweave.net/m95UNdXGRG8tTdBMIFxQcuKjhhKwkmzkiPsGSMNHpA0",
+            "imageLink": "https://arweave.net/GucS-Ed6ufngi2WqenWfT5FFVxzPyw9TKPzEqkQ1HPw?ext=png",
+            "name": "barrel1",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "2": {
+            "link": "https://arweave.net/bURq_fjWFqnW97ya-rAKVCaL160IGdVZEs5YNqcyINg",
+            "imageLink": "https://arweave.net/DyKVq7JDn_5ocPH_mnTZ496EIib868QHRea8t6_5exY?ext=png",
+            "name": "barrel2",
+            "onChain": true,
+            "verifyRun": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp"
+}

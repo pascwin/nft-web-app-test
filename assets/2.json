@@ -1,0 +1,19 @@
+{
+    "name": "barrel2",
+    "symbol": "BAR2",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "url": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8ZQ3L3rCN2w9N7xBeFQVERoCk2QSk8Xk26qhJScRbgG6",
+                "share": 100
+            }
+        ]
+    }
+}
